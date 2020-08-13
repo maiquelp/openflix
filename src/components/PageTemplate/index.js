@@ -4,11 +4,11 @@ import Footer from '../Footer';
 
 import { Main } from './styles';
 
-const PageTemplate = ({children}) => {
+const PageTemplate = ({children, paddingAll}) => {
     return (
         <>
             <Menu/>
-            <Main>
+            <Main paddingAll={paddingAll}>
                 {children}
             </Main>
             <Footer/>

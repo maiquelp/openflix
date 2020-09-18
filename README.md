@@ -8,7 +8,7 @@
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/maiquelp/openflix?color=DC1A28">
   <a href="https://github.com/maiquelp/openflix/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/maiquelp/openflix?color=%23DC1A28">
-  <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-DC1A28?style=flat">
+  <img alt="Made by Alura" src="https://img.shields.io/badge/made%20by-Alura-DC1A28?style=flat">
   </a>
   <!-- <img src="https://img.shields.io/badge/openflix-NLW 2.0-DC1A28?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg=="> -->
  <br>

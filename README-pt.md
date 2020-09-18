@@ -20,29 +20,29 @@
 <strong>
 <br>
 <p align="center">
-    <a href="README.md">English</a>
+    <a href="README.md">Inglês</a>
     ·
-    <a href="README-pt.md">Portuguese</a>
+    <a href="README-pt.md">Português</a>
 </p>
 
 <p align="center">
-  <a href="#bookmark-about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#computer-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#wrench-tools">Tools</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#package-installation">Installation</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#camera_flash-screenshots">Screenshots</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-license">License</a>
+  <a href="#bookmark-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#computer-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#wrench-ferramentas">Ferramentas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#package-instalação">Instalação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#camera_flash-telas">Telas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
 </p>
 </strong>
 <br>
 
-## :bookmark: About
+## :bookmark: Sobre
 
-The **Openflix** is a video platform inspired on the Netflix's interface. Made with React, this project was implemented during the **Imersão React** of **[Alura](https://www.alura.com.br/)**.
+O **OpenFlix** é uma plataforma de vídeos inspirada na interface do Netflix. Foi feito com React durante a **Imersão React** da **[Alura](https://www.alura.com.br/)**.
 
 <br>
 
-## :computer: Technologies
+## :computer: Tecnologias
 
 -  **[Javascript](https://www.w3schools.com/js/)**
 -  **[Node.js](https://nodejs.org/)**
@@ -52,18 +52,18 @@ The **Openflix** is a video platform inspired on the Netflix's interface. Made w
 
 <br>
 
-## :wrench: Tools
+## :wrench: Ferramentas
 
 - **[VisualStudio Code](https://code.visualstudio.com/)**
 - **[Google Chrome](https://www.google.com/chrome/)**
 
 <br>
 
-## :package: Installation
+## :package: Instalação
 
-### :heavy_check_mark: **Prerequisites**
+### :heavy_check_mark: **Pré-requisitos**
 
-The following software must be installed:
+Os seguintes softwares devem estar instalados:
   
   - **[Node.js](https://nodejs.org/en/)**
   - **[Git](https://git-scm.com/)**
@@ -71,7 +71,7 @@ The following software must be installed:
 
 <br>
   
-### :arrow_down: **Cloning the repository**
+### :arrow_down: **Clonando o repositório**
 
 ```sh
   $ git clone https://github.com/maiquelp/openflix.git
@@ -79,7 +79,7 @@ The following software must be installed:
 
 <br>
 
-### :arrow_forward:	**Running the applications**
+### :arrow_forward:	**Rodando as aplicações**
 
 - :computer: Web app
 
@@ -92,13 +92,12 @@ The following software must be installed:
 
 <br>
 
-### :camera_flash: **Screenshots**
+### :camera_flash: **Telas**
 
 ![Main](.github/screen.png)
 
 <br>
 
-### :memo: **License**
+### :memo: **Licença**
 
-This project is under the **MIT** license.
-
+Este projeto está sob uma licença **MIT**.
